@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is Gabriel Rocha Bernardino, I'm currently unemployed, I'm from Santana de Parnaíba - São Paulo.</p>
-
+<p align="left">Atualmente revisando e atualizando os notebooks feitos nos meus cursos.</p>
 ###
 
 <h2 align="left">About me</h2>
