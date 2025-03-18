@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 👋 Hi, I’m @solnattos<br>- 👀 I’m interested in Data Analysis and B.I.<br>- 🌱 I’m currently learning Python/R<br>- ⚡ Fun fact: I was an Yu-Gi-Oh! 'pro-player' at my 16's</p>
+<p align="left">- 👋 Hi, I’m @gabrielrbernardino<br>- 👀 I’m interested in Data Analysis and B.I.<br>- 🌱 I’m currently learning Python/R<br>- ⚡ Fun fact: I was an Yu-Gi-Oh! 'pro-player' at my 16's</p>
 
 ###
 
